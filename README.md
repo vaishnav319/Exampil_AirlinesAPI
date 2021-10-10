@@ -1,10 +1,11 @@
 # Exampil_AirlinesAPI
-This API is done for EXAMPIL internship and created few endpoints . 
-Serverside is done using NODEJS and database used is MONGODB
+
+
 ![LOgGO](https://play-lh.googleusercontent.com/em6Jm9E2scv8yumEkNx1JCLvoX6iVsU4M2947X6zKnBSKRO8fYT10iCAWfteOb8HTbZu=s180-rw) 
 # Airlines_API
 
-
+This API is done for EXAMPIL internship and created few endpoints . 
+Serverside is done using NODEJS and database used is MONGODB
 This is a AIRLINES API
 
 This is done using Nodejs,Express and connected to MongoDB
